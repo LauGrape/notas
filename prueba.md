@@ -36,3 +36,7 @@ Comandos Básicos
 #### esta es una prueba en la nueva_rama, que cree
 
 Hola diana desde nueva rama
+
+
+>Nuevo texto despues de fusiuonar las ramas
+>
