@@ -39,7 +39,16 @@ Hola diana desde nueva rama
 
 
 >Nuevo texto despues de fusiuonar las ramas
+<<<<<<< HEAD
 >
 
 
 quiero ver mi comentario en la rama main 8888
+=======
+
+
+>
+
+
+servira para poder aprender nuevas cosas sobre ramas 
+>>>>>>> 4e7b930d939254c5ea56884916542b03420e0f32
