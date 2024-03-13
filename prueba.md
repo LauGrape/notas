@@ -38,5 +38,9 @@ Comandos Básicos
 Hola diana desde nueva rama
 
 
->Nuevo texto despues de fusiuonar las ramas
+>
+
+estoy en la rama_p
+
+me gusta aprender sobre git
 >
