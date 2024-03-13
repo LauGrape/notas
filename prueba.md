@@ -40,3 +40,6 @@ Hola diana desde nueva rama
 
 >Nuevo texto despues de fusiuonar las ramas
 >
+
+
+quiero ver mi comentario en la rama main 
